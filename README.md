@@ -1,7 +1,6 @@
 # Binary Conventer:
---------------------
+-------------------
 
------------
 03.10.2022:
 
 Last time I added some hex->dec options and made it nicely. I also realized afterwards I need to change the algorythm to endless and I have an idea to make it work.
